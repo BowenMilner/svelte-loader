@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sveltejs/svelte-loader.git"
+    "url": "git+https://github.com/sveltejs/svelte-loader.git"
   },
   "files": [
     "lib",
